@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicom\\Demo-API-Input-Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A8B72-30B9-4A49-B86A-AF522391E53E}|Demo-API-Input-Validation.csproj|c:\\users\\nicom\\demo-api-input-validation\\sqlite-database-schema.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EC0A8B72-30B9-4A49-B86A-AF522391E53E}|Demo-API-Input-Validation.csproj|solutionrelative:sqlite-database-schema.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0A8B72-30B9-4A49-B86A-AF522391E53E}|Demo-API-Input-Validation.csproj|c:\\users\\nicom\\demo-api-input-validation\\sqlite-database-content.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{EC0A8B72-30B9-4A49-B86A-AF522391E53E}|Demo-API-Input-Validation.csproj|solutionrelative:sqlite-database-content.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sqlite-Database-Schema.PNG",
+              "DocumentMoniker": "C:\\Users\\nicom\\Demo-API-Input-Validation\\Sqlite-Database-Schema.PNG",
+              "RelativeDocumentMoniker": "Sqlite-Database-Schema.PNG",
+              "ToolTip": "C:\\Users\\nicom\\Demo-API-Input-Validation\\Sqlite-Database-Schema.PNG",
+              "RelativeToolTip": "Sqlite-Database-Schema.PNG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-19T18:22:38.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sqlite-Database-Content.PNG",
+              "DocumentMoniker": "C:\\Users\\nicom\\Demo-API-Input-Validation\\Sqlite-Database-Content.PNG",
+              "RelativeDocumentMoniker": "Sqlite-Database-Content.PNG",
+              "ToolTip": "C:\\Users\\nicom\\Demo-API-Input-Validation\\Sqlite-Database-Content.PNG",
+              "RelativeToolTip": "Sqlite-Database-Content.PNG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-19T18:22:33.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
