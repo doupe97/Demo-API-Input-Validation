@@ -24,3 +24,11 @@ To securely store passwords, the PBKDF2 key derivation algorithm was used in the
 <br></br>
 ## User Login Endpoint
 <img src="https://github.com/doupe97/Demo-API-Input-Validation/blob/main/Docs/Login-Endpoint.png">
+
+<br></br>
+## SQLite database schema
+<img src="https://github.com/doupe97/Demo-API-Input-Validation/blob/main/Docs/Sqlite-Database-Schema.PNG">
+
+<br></br>
+## SQLite database content / registered user profiles
+<img src="https://github.com/doupe97/Demo-API-Input-Validation/blob/main/Docs/Sqlite-Database-Content.PNG">
