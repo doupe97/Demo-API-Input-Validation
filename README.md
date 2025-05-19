@@ -12,3 +12,8 @@ After validation, the submitted user data is stored locally in a SQLite database
 
 ## 4. Secure Password Storage
 To securely store passwords, the PBKDF2 key derivation algorithm was used in the Rfc2898DeriveBytes implementation using the SHA-512 hash function. The 100,000 iteration configuration significantly complicates brute-force attacks. Additionally, a unique 32-byte salt is generated for each user using a cryptographically secure random number generator. These security measures ensure that even in the event of a database leak, no direct conclusions can be drawn about the original passwords. The use of salt also effectively protects against rainbow table attacks, since even identical passwords result in different hash values ​​due to different salt values.
+
+<br><br>
+<p float="left">
+  <img src="https://github.com/doupe97/Demo-API-Input-Validation/blob/main/Docs/SwaggerUI-API-endpoints.png">
+</p>
